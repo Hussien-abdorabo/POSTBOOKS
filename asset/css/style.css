@@ -1,0 +1,6 @@
+.cover{
+    background: url('/static/images/img2.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
